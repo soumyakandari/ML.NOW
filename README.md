@@ -1,2 +1,4 @@
 # ML.NOW
 this is the repo for ML
+
+WE PERFORMED PErCEPTRON TRAINING IN THIS REPO
